@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://rgeyer.github.com/pear</id>
+    <updated>2011-12-01T09:14:25-08:00</updated>
+    <title>Ryan's PEAR Channel Server Latest Releases</title>
+    <link href="http://rgeyer.github.com/pear/feed.xml" rel="self" />
+    <author>
+        <name>http://rgeyer.github.com/pear</name>
+    </author>
+
+
+</feed>

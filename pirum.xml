@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>rgeyer.github.com/pear</name>
+  <summary>Ryan's PEAR Channel Server</summary>
+  <alias>rgeyer</alias>
+  <url>http://rgeyer.github.com/pear</url>
+</server>
